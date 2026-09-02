@@ -1,0 +1,1 @@
+Ground truth workspace for product catalog task.
